@@ -1,4 +1,5 @@
 # MusicPlayer
+Click below to watch a showcase video of the app: (I talk about specifications criterion, so feel free to skip around)
 [![Watch the video](https://img.youtube.com/vi/DQ9krkrXvTw/0.jpg)](https://youtu.be/DQ9krkrXvTw)
 
 Android music player client for a Jellyfin server.
