@@ -1,4 +1,7 @@
 # MusicPlayer
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ccfa7c01-3ed5-4bed-a513-f3dbdbb7414e" width="80%" controls></video>
+</p>
 
 Android music player client for a Jellyfin server.
 
