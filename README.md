@@ -1,8 +1,8 @@
 Note: this project was built in 2023, but uploaded to GitHub in 2026 for documentation
 
 # MusicPlayer
-Click below to watch a showcase video of the app:
-- (I talk about specifications criterion, so feel free to skip around)
+Click below to watch a video showcase of the app:
+- I talk about client specifications criterion, so feel free to skip around
 [![Watch the video](https://img.youtube.com/vi/DQ9krkrXvTw/0.jpg)](https://youtu.be/DQ9krkrXvTw)
 
 Android music player client for a Jellyfin server.
